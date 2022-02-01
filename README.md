@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Acaleb90  hi  como estan bien.
+- 👀 I’m interested in ...
+     La  programacio  me gusta 
+     
+     
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Acaleb90/Acaleb90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
